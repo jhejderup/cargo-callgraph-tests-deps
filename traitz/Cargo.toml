@@ -1,0 +1,10 @@
+[package]
+name = "traitz"
+version = "0.1.0"
+authors = ["Joseph Hejderup <jhejderup@users.noreply.github.com>"]
+
+[dependencies]
+
+
+[lib]
+name = "mr_trait"

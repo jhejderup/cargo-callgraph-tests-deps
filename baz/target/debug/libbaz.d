@@ -1,0 +1,1 @@
+/Users/jhejderup/Developer/cargo-callgraph-tests-deps/baz/target/debug/libbaz.rlib: /Users/jhejderup/Developer/cargo-callgraph-tests-deps/baz/src/lib.rs /Users/jhejderup/Developer/cargo-callgraph-tests-deps/foo/src/lib.rs

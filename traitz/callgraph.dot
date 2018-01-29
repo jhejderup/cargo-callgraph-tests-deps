@@ -1,0 +1,21 @@
+digraph "Call graph" {
+	label="Call graph";
+
+	Node0x7ff8bc014970 [shape=record,label="{external node}"];
+	Node0x7ff8bc014970 -> Node0x7ff8bc011960;
+	Node0x7ff8bc014970 -> Node0x7ff8bc0119c0;
+	Node0x7ff8bc014970 -> Node0x7ff8bc011a60;
+	Node0x7ff8bc014970 -> Node0x7ff8bc011ba0;
+	Node0x7ff8bc014970 -> Node0x7ff8bc011c00;
+	Node0x7ff8bc014970 -> Node0x7ff8bc011d30;
+	Node0x7ff8bc014970 -> Node0x7ff8bc011b40;
+	Node0x7ff8bc011a60 [shape=record,label="{_ZN93_$LT$traitz..outer_1..double_outer_1..TwoArgs$u20$as$u20$traitz..traits..mytrait..MyTrait$GT$5hello17hd84770733031ec0aE}"];
+	Node0x7ff8bc011a60 -> Node0x7ff8bc011b40;
+	Node0x7ff8bc011ba0 [shape=record,label="{llvm.dbg.declare}"];
+	Node0x7ff8bc011c00 [shape=record,label="{llvm.sadd.with.overflow.i32}"];
+	Node0x7ff8bc011d30 [shape=record,label="{llvm.expect.i1}"];
+	Node0x7ff8bc011b40 [shape=record,label="{_ZN4core9panicking5panic17hf265531a53a2601eE}"];
+	Node0x7ff8bc011b40 -> Node0x7ff8bc0149a0;
+	Node0x7ff8bc011960 [shape=record,label="{_ZN94_$LT$traitz..outer_1..outer_2..outer_2..Outer2$u20$as$u20$traitz..traits..mytrait..MyTrait$GT$5hello17ha3e8294870fa9e8cE}"];
+	Node0x7ff8bc0119c0 [shape=record,label="{_ZN85_$LT$traitz..outer_1..outer_1..OneArg$u20$as$u20$traitz..traits..mytrait..MyTrait$GT$5hello17hb866497a2044f30dE}"];
+}

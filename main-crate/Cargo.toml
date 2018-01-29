@@ -1,0 +1,10 @@
+[package]
+name = "main-crate"
+version = "0.1.0"
+authors = ["Joseph Hejderup <jhejderup@users.noreply.github.com>"]
+
+[dependencies]
+foo = { path = "../foo" }
+bar = { path = "../bar" }
+baz = { path = "../baz" }
+traitz = { path = "../traitz" }
