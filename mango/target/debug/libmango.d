@@ -1,0 +1,1 @@
+/Users/jhejderup/Developer/cargo-callgraph-tests-deps/mango/target/debug/libmango.rlib: /Users/jhejderup/Developer/cargo-callgraph-tests-deps/foo/src/lib.rs /Users/jhejderup/Developer/cargo-callgraph-tests-deps/mango/src/lib.rs /Users/jhejderup/Developer/cargo-callgraph-tests-deps/apple/src/lib.rs
