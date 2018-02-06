@@ -1,0 +1,1 @@
+/Users/jhejderup/Developer/cargo-callgraph-tests-deps/pasta/target/debug/libpasta.rlib: /Users/jhejderup/Developer/cargo-callgraph-tests-deps/pasta/src/lib.rs /Users/jhejderup/Developer/cargo-callgraph-tests-deps/food/src/lib.rs
